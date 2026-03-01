@@ -18,6 +18,6 @@
 ![Meus Status do GitHub](https://github-readme-stats.vercel.app/api?username=Diegomchd&show_icons=true&theme=dracula)
 
 ###  Onde me encontrar
-- [LinkedIn](www.linkedin.com/in/diego-de-aguiar-machado-1a2437251)
+- [LinkedIn](https://www.linkedin.com/in/diego-de-aguiar-machado-1a2437251)
 - [E-mail](mailto:diegoamchd5@gmail.com)
 
