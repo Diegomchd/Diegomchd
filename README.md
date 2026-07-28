@@ -1,7 +1,7 @@
 # Olá, me chamo Diego 
 
 ### Sobre mim
--  Estudante de **Análise e Desenvolvimento de Sistemas** (3º Semestre) na **ULBRA**.
+-  Estudante de **Análise e Desenvolvimento de Sistemas** na **ULBRA**.
 -  Buscando minha primeira oportunidade como **estagiário** para me inserir no mercado de tecnologia.
 -  Interessado no desenvolvimento **Full Stack**, **Programação Orientada a Objetos (POO)** e **Análise de Dados**.
 -  Atualmente focado em Python (seguindo o Curso em Vídeo), mas explorando o universo web.
